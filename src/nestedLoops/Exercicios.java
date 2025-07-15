@@ -10,7 +10,8 @@ public class Exercicios {
         }
         System.out.println("Somatorio de 1 até 100: " + somatorio);
 
-        //Exercicio 2
+        //Exercicio
+
         int num = 1;
 
         while (num <= 20) {
