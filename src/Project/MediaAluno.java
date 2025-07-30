@@ -1,4 +1,4 @@
-package MediaAluno;
+package Project;
 import java.util.Scanner;
 
 public class MediaAluno {
